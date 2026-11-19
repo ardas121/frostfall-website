@@ -1,0 +1,3 @@
+GROK HANDOFF
+
+This is the lightweight source package for the Frostfall: Son Ateş website. Inspect every file before editing. Preserve the real supplied Frostfall artwork in /assets. Images are optimized WebP versions of the supplied PNG artwork. MP4 files are intentionally excluded; see VIDEO-ASSETS-TO-ADD.md. Do not invent gameplay features, characters, ratings, download counts, reviews, or social statistics. Complete the six-page website, global translations for all visible text, PC + Android responsive design, accessible interactions, cinematic but performance-conscious 3D effects, SEO, and PWA support. Test all local links and asset paths. Return the complete project source and a runnable ZIP.
